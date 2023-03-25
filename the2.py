@@ -1,7 +1,4 @@
-#
-# WRITE YOUR CODE HERE AND SEND ONLY THIS FILE TO US.
-#
-# DO NOT DEFINE get_data() here. Check before submitting
+
 p=0
 b=0
 
@@ -20,8 +17,8 @@ def new_move():
 	K = get_data()[3]
 	LAMBDA = get_data()[4]
 	mu = get_data()[5]
-	p = 0  # kaçıncıkişiyebakıyorsa
-	b = 0  # kaçıncı insanı kontrol ettiği
+	p = 0  
+	b = 0  
 
 	def bulaştırıcı(a):
 		global bulaşanlar
