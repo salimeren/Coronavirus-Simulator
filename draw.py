@@ -1,8 +1,6 @@
-# 
+
 # YOU CAN PLAY AROUND WITH  "DELAY".
-# OTHERWISE, YOU SHOULDN'T UPDATE THIS FILE.
-# DO NOT SEND THIS FILE TO US.
-#
+
 from math import *
 from tkinter import *
 from evaluator import *
